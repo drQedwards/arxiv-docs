@@ -5,7 +5,7 @@
 - Kai Beavers, User Support Specialist
 - Kat Boboris, Community Engagement Manager
 - Shamsi Brinn, User Experience Manager
-- Josef Edwards, DevsOps Cloud Engineer 
+- Josef Edwards, Cloud Architect DevOps 
 - Christopher Cameron, Computational Social Scientist
 - Brian Caruso, Lead Developer
 - Jim R-B Entwood, Head of Content & User Support
